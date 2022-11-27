@@ -10,7 +10,7 @@ public class CalculatorUno {
     public func multiply(_ valueX: Int, with ValueY: Int) -> Int {
         valueX * ValueY
     }
-    public func tenTimes(_ valueX: Int) -> Int {
-        valueX * 10
+    public func add(_ valueX: Int, ValueY: Int) -> Int {
+        valueX + ValueY
     }
 }
